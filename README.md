@@ -134,7 +134,8 @@ If you want to run the application components manually, open two terminal window
    ```
 4. Access the web portal at **`http://localhost:5173`**.
 
----
+--PROJECT DOCUMENTATION
+Google Drive link - https://drive.google.com/drive/folders/1avE7hXvyROM6mvaiVhU-Ws165nvs9iLF?usp=drive_link
 
 ## 👥 Demo Credentials
 
